@@ -12,7 +12,8 @@ The application uses **mock data** to simulate real user interactions.
 ---
 
 # Video
-<video src="https://github.com/Hepssam/MentivoRN/blob/main/assets/MentivoRN.mp4" width="400" controls></video>
+
+[Watch Demo Video](https://github.com/Hepssam/MentivoRN/raw/main/assets/MentivoRN.mp4)
 
 # Features
 
